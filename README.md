@@ -67,4 +67,4 @@ ml-learning/
 - Production MLOps skills
 
 ---
-*Last updated: 13 Feb 26*
+*Last updated: 13 Feb 26*# successfully setup on both Windows and Mac - Fri Feb 13 22:08:35 MST 2026
