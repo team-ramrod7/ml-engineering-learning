@@ -58,5 +58,25 @@
 
 ---
 
+
+
+\## Week 4 Reflection Checkpoint
+
+\- \[ ] Review all completed tasks from Weeks 1-4
+
+\- \[ ] Assess time management - am I spending 10-15 hrs/week?
+
+\- \[ ] Curriculum adjustment needed? Too fast/slow?
+
+\- \[ ] Math curriculum on track?
+
+\- \[ ] Portfolio projects progressing?
+
+\- \[ ] Any blockers to address?
+
+
+
+---
+
 \*Last updated: \[February 15, 2026]\*
 
