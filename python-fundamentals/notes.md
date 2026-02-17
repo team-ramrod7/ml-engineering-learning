@@ -1,0 +1,1 @@
+## Markdown file for holding python notes as I progress through the "Python Fundamentals" Curriculum
